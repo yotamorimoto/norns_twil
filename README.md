@@ -5,6 +5,6 @@ in norns>devices
 there are two launchpad's midi ports
 select the sencond one
 
->enter mode selection in launchpad (mini mk3 hold session button 1.5 sec).
+>enter mode selection in launchpad (mini mk3 hold session button 1.5 sec).</ br>
 >choose 'programmer mode' by tapping stop/solo/mute button.
 >exit (tapping session button again)
