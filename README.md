@@ -1,8 +1,7 @@
 # twil
 crossfeeding tape machines
 
-in norns
->devices
+in norns>devices
 there are two launchpad's midi ports
 select the sencond one
 
