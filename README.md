@@ -10,3 +10,5 @@ select the sencond one
 >choose 'programmer mode' (mini: stop / pro : print to clip).
 
 >exit (mini: tap session / pro: tap setup)
+
+![image of layout]()
