@@ -11,4 +11,4 @@ select the sencond one
 
 >exit (mini: tap session / pro: tap setup)
 
-![image of layout]()
+![layout](v1.png)
