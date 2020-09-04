@@ -4,6 +4,7 @@ crossfeeding tape machines
 in norns>devices
 there are two launchpad's midi ports
 * select the sencond one (MIDI)
+
 for launchpad pro
 * it maybe the first
 
